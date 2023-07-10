@@ -1,0 +1,2 @@
+Every has create one folder for respective component 
+eg. (Cards related Components) - Foldername : Cards
